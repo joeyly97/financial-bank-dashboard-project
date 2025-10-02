@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+.DS_Store
+
+# Excel temp
+~$*.xlsx
+
+# Power BI temp
+*.pbix.tmp
+
+# Big binaries (if you prefer to not store pbix)
+*.pbix
+
+# Python env
+venv/
